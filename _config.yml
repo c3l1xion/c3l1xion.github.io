@@ -22,8 +22,8 @@ author: c3l1xion
 navbar-links:
   About Me: "aboutme"
   Guides:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - COMPTIA PEN+: "https://beautifuljekyll.com"
+    - COMPTIA SEC+: "https://www.markdowntutorial.com/"
   Thoughts: "https://deanattali.com"
 
 ################
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2735742399f06dee5425185cc53&f=1&nofb=1&ipt=75330cea087bd5105772be60390220c26ceb32790f121b7198bea9da564396ed&ipo=images"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
