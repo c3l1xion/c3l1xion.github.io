@@ -85,7 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Hi.
 
 ###########################
 # --- General options --- #
@@ -134,14 +134,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#22223B"
-text-col: "#96031A"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#4A4E69"
-navbar-text-col: "#96031A"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+page-col: "#353238"
+text-col: "#730303"
+link-col: "#96031A"
+hover-col: "#96031A"
+navbar-col: "#494651"
+navbar-text-col: "#730303"
+navbar-border-col: "#353238"
+footer-col: "#730303"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
