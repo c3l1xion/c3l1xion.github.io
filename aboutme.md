@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is c3l1xion! Not a birthname, but a psuedonym. If you want my birthname, too bad.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I like learning about tech.
+- I want a 3D printer real bad
+- I'm leaning how to hack and compiling all the information I gain from documentation, books, and everything here.
+- I like caramel ice cream.
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm not going to give you my sob story on why I want to hack, just watch this [TV Show](https://en.wikipedia.org/wiki/Disenchantment_(TV_series)) and it will answer **all** your questions.
+
+
+###### Donations for the generous people:
+
+XMR Address: 8BLTFxKCj8pARmgdL8y1KHEhHoRWsaKmwfr6ebf5vsPt1ycyeXeG2xQXGFQFTkLAeBiw18pfH8EmfYwojaEDzHbqLbAZ5Mk
